@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html, body{
+	border:0px;/*CONFIGURAÇÃO DA BORDA*/
+	margin:0px;/*CONFIGURAÇÃO DA MARGEM EXTERNA*/
+	padding:0px;/*CONFIGURAÇÃO DA MARGEM INTERNA*/
+	
+}
+
+header, nav{
+	margin:0 auto;/*MARGIN:0 AUTO; = CENTRALIZAR*/
+}
+
+header{
+	width:1024px; 
+	height:140px; 
+	background:#FFF;
+}
+
+.logo{
+	margin-top:10px;
+}
+
+section{
+	width:1024px;
+	height:830px;
+	margin:0 auto;
+	margin-top:10px;
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#dest1{
+	width:300px;
+	height:400px;
+	float:left;
+	margin-left:30px;
+}
+
+hr{
+	border:dotted 2px #060; /* CONFIGURAÇÃO DE BORDA */
+	margin-bottom:20px;
+}
+
+#galeria{
+	height:730px;
+}
+
+
+
+#novidades{
+	height:850px;
+	
+}
+
+#imagem{
+
+	width:1024px;
+	height:300px;
+}
+
+#video{
+	width:1024px;
+	height:300px;
+}
+
+section video{
+	padding-top:20px;
+	padding-right:10px;
+}
+
+#contatos{
+	height:550px;
+}
+
+
+

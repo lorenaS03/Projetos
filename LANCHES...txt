@@ -1,0 +1,31 @@
+Cardárpio de lanches
+Cachorro quente de forno R$:8,00
+Pastel de forno R$:8,00
+Italiano R$:8,00
+Empadinha R$:5,00
+Coxinha R$:8,00
+Enroladinho de queijo c/ presunto R$:8,00
+Hamburgue de forno R$:8,00
+
+Pães
+Pão Francês KG = 11,00
+Pão Bisnaguinha 260G = 8,99
+Pão Doce 3,50
+Pão de Forma un=1,45
+Pão Italiano UM = 8,10
+Pão brioche 500G =7,89
+
+SUCOS
+Suco de goiaba R$ 5,00
+Suco deLaranja R$ 5,00
+Suco de Maracujá R$ 5,00
+Suco de abacaxi com hortel R$ 6,00
+Sujo de Caju R$ 5,00
+
+Cafeteria Quente
+Café do coador (com açúcar ) R$ 3,60
+Café expresso (sem açúcar) R$ 5,80
+Chocolate (nescau/ toddy) R$ 6,00
+Capuccino R$ 6,90
+Chá Quente (diversos) R$ 7,90
+Chocolate Europeu R$ 13,90

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name=" viewport" content="width=device-width,initial-scale=1.0" />
+    <title>PADARIA MASSA DOURADA</title>
+</head>
+<body>
+    <h1> RODÍZIO DE PIZZAS + MASSAS</h1>
+    <ul type="square">
+    <li> TERÇA A QUINTA, DAS 18:30 ÁS 23:00  R$ 49,90</li>
+    <li> SEXTA, DOMINGO E FERIADOS DAS 18:30 ÁS 00:00  R$ 69,90</li>
+    <li>REFIL: R$14,90 </li>
+    <li>CRIANÇAS (5 A 10 ANOS): R$25,90</li>
+    <li>ANIVERSÁRIANTE DO DIA COM 15 ACOMPANHANTES, GANHA O RODÍZIO DE CORTESIA PAGANDO SOMENTE A BEBIDA!</li> 
+</ul>
+
+    <li>CARTÕES: CRÉDITO, DEBITO, RESTAURANTE E  ALIMENTAÇÃO</li>
+    <li>RESERVAS APENAS POR TELEFONE</li>
+    <li>TEL: (21) 99535-3123</li>
+    <li>ENDEREÇO: RUA OTAVÍO CARNEIRO, 123 - ÍCARAI</li>
+    <img src="grupo/imagens/pizza1.jpg"alt/>
+</body>
+</html>
